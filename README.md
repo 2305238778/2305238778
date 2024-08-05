@@ -6,11 +6,6 @@
     <a href="https://github.com/2305238778/2305238778"><img src="https://img.shields.io/badge/add-My%20QQ2305238778-%2393b5cf?style=flat"></a>  
 </p>
 
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
-
-
 
 <!--   my-kaggle     
 ### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
