@@ -2,9 +2,7 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/2305238778/2305238778"><img src="https://img.shields.io/badge/add-My%20QQ2305238778-%2393b5cf?style=flat"></a>
-
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+    <a href="https://github.com/2305238778/2305238778"><img src="https://img.shields.io/badge/add-My%20QQ2305238778-%2393b5cf?style=flat"></a>  
 </p>
 
 <!--   my-header-img -->
